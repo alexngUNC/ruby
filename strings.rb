@@ -18,3 +18,5 @@ puts shout[10,15]\
 puts shout.index("h")
 
 puts "YES".downcase
+
+puts ("My favorite number is " + 8.to_s)
