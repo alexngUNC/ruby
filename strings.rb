@@ -12,3 +12,9 @@ puts shout.upcase().strip()
 puts shout.length
 
 puts shout.include? "o"
+
+puts shout[10,15]\
+
+puts shout.index("h")
+
+puts "YES".downcase
